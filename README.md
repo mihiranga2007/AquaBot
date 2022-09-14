@@ -1,4 +1,4 @@
- <h1 align="center"><b>🐋AQuaBot 🐋 An user Bot for Whatsapp</b></h1>
+ <h1 align="center"><b>❝𝘗𝘙𝘐𝘕𝘊𝘌𝘚🪄𝓙🖇️𝓚 ❞ An user Bot for Whatsapp</b></h1>
  ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-REPL#index.js)
